@@ -1,5 +1,5 @@
 module.exports = {
-    Movies:require('./userModel'),
+    usersModel:require('./userModel'),
     }
 
 
