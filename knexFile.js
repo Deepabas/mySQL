@@ -9,5 +9,5 @@ module.exports = {
 			database: 'deepa'
 		},
 		debug: true
-	},
-};
+		},
+	};

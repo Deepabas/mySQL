@@ -1,5 +1,5 @@
 module.exports = {
-    usersModel:require('./userModel'),
+    users:require('./userModel'),
     }
 
 
